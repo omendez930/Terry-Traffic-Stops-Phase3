@@ -1,4 +1,4 @@
-# Terry-Traffic-Stops-Phase3
+# Terry Stops Phase3
 
 # Overview
 
