@@ -3,7 +3,7 @@
 # Overview
 
 
-![Terry, the stopper](/data/terr_stop_cartoon.png)
+![Terry, the stopper](./images/terr_stop_cartoon.png)
 
 The purpose of this project is to perform an analysis using the seattle police department database. We have been asked to  provide valuable insight regarding the outcome of Terry stops performed that led to a persons arrest.
 As well as a predictive model that can be used to make recommendations to the Police Department to help determine if Terry Stops are neccessary.
@@ -33,9 +33,12 @@ We split a column, arrestt flag, and made it my target based on if the individua
 I found 'Final Call Type','Stop Resolution','Subject Perceived Gender', 'Subject Perceived Race','Frisk Flag' are important features in our models.
 
 * Add visualizations
+![Distributions of arrest](./images/Distribution_of_arrests.png)
 
 
 # Models
+
+Performing Logistic Regressions, we find the following 
 
 
 # Conclusion
