@@ -122,7 +122,9 @@ Based on the model's performance, the following steps are recommended:
 
 # For more information
 
-See the full analysis in the [Jupyter Notebook](https://github.com/omendez930/Terry-Traffic-Stops-Phase3/blob/main/index.ipynb)
+See the full analysis in the [Jupyter Notebook](https://github.com/omendez930/Terry-Traffic-Stops-Phase3/blob/main/index.ipynb) and [Presentation](https://github.com/omendez930/Terry-Traffic-Stops-Phase3/blob/main/Terry%20Stops.pdf)
+
+If you're interested in the visualizations, you can check it out here: [Tableau link](https://public.tableau.com/app/profile/orangel.mendez/viz/Terrt_stop_analysis/Dashboard1?publish=yes)
 
 Orangel Mendez: <omendez30@gmail.com>
 
